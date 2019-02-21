@@ -30,15 +30,15 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ''
-      type: posts
-    values:
-      # layout: single
-  - scope:
-      path: ''
-    values:
-      layout: page
+  # - scope:
+  #     path: ''
+  #     type: posts
+  #   # values:
+  #   #   layout: single
+  # - scope:
+  #     path: ''
+  #   values:
+  #     layout: page
   - scope:
       path: ''
       type: phones 
