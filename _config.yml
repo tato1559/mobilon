@@ -20,9 +20,6 @@ sass:
 
 # Collections
 collections:
-  posts:
-    title: Posts
-    output: true
   phones:
     title: Phones 
     output: true
