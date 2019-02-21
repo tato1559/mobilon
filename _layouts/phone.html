@@ -13,17 +13,20 @@
 		<section class="phone">
 			<div class="container">
 				<article>
-					<span class="h2">Phone Title</span>
+					<span class="h2">Model</span>
+          <!-- {{ page | inspect }} -->
 					<h1>
-						<a href="{{ page.project.url }}" target="_blank" title="{{ page.project.title }}" rel="nofollow">{{ page.project.title }}</a>
+						<a href="{{ page.url }}" target="_blank" title="{{ page.project.title }}" rel="nofollow">{{ page.title }}</a>
 					</h1>
-					<span class="h2">Role</span>
+					<span class="h2">Brand</span>
+          <h1>{{ page.Brand }}</h1>
 					{{ page.content }}
+
 					<div class="phone-meta">
 						<span class="h2">Technologies</span>
 						<p>{{ page.project.tech }}</p>
 						<span class="h2">Agency</span>
-						<p><a title="{{ page.agency.title }}" href="{{ page.agency.url }}" target="_blank" rel="nofollow">{{ page.agency.title }}</a></p>
+						<p><a title="{{ page.title }}" href="{{ page.agency.url }}" target="_blank" rel="nofollow">{{ page.title }}</a></p>
 						<span class="h2">Year</span>
 						<p>{{ page.agency.year }}</p>
 					</div>
