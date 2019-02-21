@@ -22,15 +22,15 @@ defaults:
     images:
     - 
 author: Revaz Zakalashvili
-tagline: Mobilon - Used Mobile Phones
-description: ''
-keywords: ''
+tagline: Used Mobile Phones
+description: 
+keywords: 
 email: contact@mobilon.ge
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 github: https://github.com/
 repository: 
-baseurl: ''
+baseurl: 
 highlighter: rouge
 sass:
   sass_dir: assets/scss
