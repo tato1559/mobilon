@@ -1,0 +1,48 @@
+# User config
+title: "Mobilon"
+author: "Revaz Zakalashvili"
+tagline: "Mobilon - Used Mobile Phones"
+description: ""
+keywords: ""
+email: "contact@mobilon.ge"
+linkedin: "https://www.linkedin.com/"
+twitter: "https://twitter.com/"
+github: "https://github.com/"
+repository: 
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
+
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+  phones:
+    title: Phones 
+    output: true
+    # permalink: "/phones/:path/"
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ''
+      type: posts
+    values:
+      # layout: single
+  - scope:
+      path: ''
+    values:
+      layout: page
+  - scope:
+      path: ''
+      type: phones 
+    values:
+      images:
+      -
+      Is in stock:
