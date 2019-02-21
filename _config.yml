@@ -16,9 +16,11 @@ defaults:
     path: ''
     type: phones
   values:
+    Brand:
+    Is in stock: 
+    Thumbnail image:
     images:
     - 
-    Is in stock: 
 author: Revaz Zakalashvili
 tagline: Mobilon - Used Mobile Phones
 description: ''

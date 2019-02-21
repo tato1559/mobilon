@@ -12,7 +12,7 @@
 </head>
 <body>
 	{% include header.html %}
-  <!-- {{ site.phone | inspect }} -->
+  <!-- {{ site.phones | inspect }} -->
   <main class="content {%if page.url == '/'%} no-padding {%endif%}">
 		<!-- <section class="intro"> -->
 		<!-- 	<div class="container"> -->
@@ -24,14 +24,14 @@
 			<div class="container">
 				<h2>Phones</h2>
 				<ul class="phones-list">
-					{% for item in site.categories.projects reversed %}
+					{% for item in site.phones reversed %}
 						<li>
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
-									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+									<img src="{{ item.thumbnail | prepend: site.baseurl }}" alt="{{ item.title }}" />
 								</div>
-								<span class="h2">{{ item.project.type }}</span>
-								<h3>{{ item.project.title }}</h3>
+								<span class="h2">{{ item.brand }}</span>
+								<h3>{{ item.title }}</h3>
 							</a>
 						</li>
 					{% endfor %}
