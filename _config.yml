@@ -5,6 +5,7 @@ collections:
   phones:
     title: Phones
     output: true
+    permalink: "/:path"
   posts:
     title: Posts
     output: true
@@ -21,6 +22,7 @@ defaults:
     Thumbnail image: 
     images:
     - 
+    layout: phone
 author: Revaz Zakalashvili
 tagline: Used Mobile Phones
 description: 

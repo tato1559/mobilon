@@ -25,12 +25,13 @@
 				<h2>Phones</h2>
 				<ul class="phones-list">
 					{% for item in site.phones reversed %}
+          <!-- {{ item['Thumbnail image'] | inspect }} -->
 						<li>
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
-									<img src="{{ item.thumbnail | prepend: site.baseurl }}" alt="{{ item.title }}" />
+									<img src="{{ item['Thumbnail image'] | prepend: site.baseurl }}" alt="{{ item.title }}" />
 								</div>
-								<span class="h2">{{ item.brand }}</span>
+								<span class="h2">{{ item.Brand }}</span>
 								<h3>{{ item.title }}</h3>
 							</a>
 						</li>
