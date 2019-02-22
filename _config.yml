@@ -1,7 +1,6 @@
 ---
 title: Mobilon
 timezone: UTC
-cats: [ apple, samsung ]
 collections:
   phones:
     title: Phones
@@ -36,6 +35,9 @@ defaults:
     year: 
     images:
     - 
+cats:
+- apple
+- samsung
 categories:
 - apple
 - samsung
