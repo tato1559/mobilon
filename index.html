@@ -29,20 +29,25 @@
 						<li>
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
-									{% if item['Is in sale'] %}
-										<div class="corner-ribbon">SALE</div>
+
+									{% if item['Is in stock'] %}
+
+										{% if item['Is in sale'] %}
+											<div class="corner-ribbon">SALE</div>
+										{% endif %}
+
+										{% if item.price %}
+											<div class="corner-ribbon price">
+												<span class="new">{{ item.price }} ლარი</span>
+												{% if item['Is in sale'] %}
+													<span class="old">{{ item['old price'] }} ლარი</span>
+												{% endif %}
+											</div>
+										{% endif %}
+									{% else %}
+										<div class="corner-ribbon red">Out of Stock</div>
 									{% endif %}
-									{% unless item['Is in stock'] %}
-										<div class="corner-ribbon red right">Out of Stock</div>
-									{% endunless %}
-									{% if item.price %}
-										<div class="corner-ribbon price">
-											<span class="new">{{ item.price }} ლარი</span>
-											{% if item['Is in sale'] %}
-												<span class="old">{{ item['old price'] }} ლარი</span>
-											{% endif %}
-										</div>
-									{% endif %}
+
 									<img src="{{ item['Thumbnail image'] | prepend: site.baseurl }}" alt="{{ item.title }}" />
 								</div>
 								<span class="h2">{{ item.Brand }}</span>
