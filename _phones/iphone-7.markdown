@@ -3,9 +3,10 @@ title: iPhone 7
 date: 2019-02-22 13:31:00 Z
 Brand: Apple
 Is in stock: true
-Is in sale: false
+Is in sale: true
 Thumbnail image: "/uploads/iphone7_black.png"
-price: 800
+price: 900
+old price: 1000
 camera: 12 MP
 selfie camera: 7 MP
 memory: 32 GB
