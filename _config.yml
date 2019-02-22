@@ -22,8 +22,8 @@ defaults:
     Is in stock: 
     Is in sale: 
     Thumbnail image: 
-    price:
-    new price:
+    price: 
+    new price: 
     images:
     - 
 author: Revaz Zakalashvili
