@@ -13,12 +13,18 @@
 <body>
 	{% include header.html %}
   <main class="content {%if page.url == '/'%} no-padding {%endif%}">
-		<!-- <section class="intro"> -->
-		<!-- 	<div class="container"> -->
-		<!-- 		<h2>About me.</h2> -->
-		<!-- 		<p>{{ site.description }}</p> -->
-		<!-- 	</div> -->
-		<!-- </section> -->
+		{% if site.cats %}
+		<section class="intro">
+			<div class="container">
+				<ul class="categories">
+						<a href="#">All</a>
+					{% for item in site.cats %}
+						<a href="#{{ item }}"> {{ item }}</a>
+					{% endfor %}
+				</ul>
+			</div>
+		</section>
+		{% endif %}
 		<section class="phones">
 			<div class="container">
 				<h2>Phones</h2>

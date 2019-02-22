@@ -1,7 +1,7 @@
 ---
 title: Mobilon
 timezone: UTC
-categories: [ apple, samsung ]
+cats: [ apple, samsung ]
 collections:
   phones:
     title: Phones
