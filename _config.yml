@@ -36,6 +36,9 @@ defaults:
     year: 
     images:
     - 
+categories:
+- apple
+- samsung
 author: Revaz Zakalashvili
 tagline: Used Mobile Phones
 description: 
