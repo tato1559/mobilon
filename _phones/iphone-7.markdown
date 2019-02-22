@@ -6,6 +6,15 @@ Is in stock: true
 Is in sale: false
 Thumbnail image: "/uploads/iphone7_black.png"
 price: 800
+camera: 12 MP
+selfie camera: 7 MP
+memory: 32 GB
+processor: Quad-core 2.34 GHz
+ram: 2 GB
+screen type: LED-backlit IPS LCD, capacitive touchscreen, 16M colors
+screen size: 4.7 inch
+battery: Li-Ion 1960 mAh battery
+year: 2016
 images:
 - "/uploads/iphone7_black-1.jpg"
 ---
