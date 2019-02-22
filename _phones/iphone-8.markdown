@@ -1,6 +1,8 @@
 ---
 title: iPhone 8
 date: 2019-02-21 16:56:00 Z
+categories:
+- samsung
 Brand: Apple
 Is in stock: true
 Is in sale: false
