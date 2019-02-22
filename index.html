@@ -12,7 +12,6 @@
 </head>
 <body>
 	{% include header.html %}
-  <!-- {{ site.phones | inspect }} -->
   <main class="content {%if page.url == '/'%} no-padding {%endif%}">
 		<!-- <section class="intro"> -->
 		<!-- 	<div class="container"> -->
@@ -25,7 +24,6 @@
 				<h2>Phones</h2>
 				<ul class="phones-list">
 					{% for item in site.phones reversed %}
-          <!-- {{ item['Thumbnail image'] | inspect }} -->
 						<li>
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
