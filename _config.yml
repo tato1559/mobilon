@@ -23,16 +23,16 @@ defaults:
     Is in sale: 
     Thumbnail image: 
     price: 
-    old price:
-    camera:
-    selfie camera:
-    memory:
-    processor:
-    ram:
-    screen type:
-    screen size:
-    battery:
-    year:
+    old price: 
+    camera: 
+    selfie camera: 
+    memory: 
+    processor: 
+    ram: 
+    screen type: 
+    screen size: 
+    battery: 
+    year: 
     images:
     - 
 author: Revaz Zakalashvili
