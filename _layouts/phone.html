@@ -17,23 +17,58 @@
 			</a>
 			<div class="container">
 				<article>
-					<span class="h2">Model</span>
-          <!-- {{ page | inspect }} -->
-					<h1>
-						<a href="{{ page.url }}" target="_blank" title="{{ page.project.title }}" rel="nofollow">{{ page.title }}</a>
-					</h1>
-					<span class="h2">Brand</span>
-          <h1>{{ page.Brand }}</h1>
+					<span class="h2">მოდელი</span>
+					<h1>{{ page.title }}</h1>
+					<span class="h2">ბრენდი</span>
+					<h1>{{ page.Brand }}</h1>
 					{{ page.content }}
 
 					<div class="phone-meta">
-						<span class="h2">Technologies</span>
-						<p>{{ page.project.tech }}</p>
-						<span class="h2">Agency</span>
-						<p><a title="{{ page.title }}" href="{{ page.agency.url }}" target="_blank" rel="nofollow">{{ page.title }}</a></p>
-						<span class="h2">Year</span>
-						<p>{{ page.agency.year }}</p>
+						{% if page.camera %}
+							<span class="h2">კამერა</span>
+							<p>{{ page.camera }}</p>
+						{% endif %}
+
+						{% if page['selfie camera'] %}
+							<span class="h2">სელფის კამერა</span>
+							<p>{{ page['selfie camera'] }}</p>
+						{% endif %}
+						{% if page.memory %}
+							<span class="h2">მეხსიერება</span>
+							<p>{{ page.memory }}</p>
+						{% endif %}
+
+						{% if page.processor %}
+							<span class="h2">პროცესორი</span>
+							<p>{{ page.processor }}</p>
+						{% endif %}
+						
+						{% if page.ram %}
+							<span class="h2">ოპერატიული მეხსიერება</span>
+							<p>{{ page.ram }}</p>
+						{% endif %}
+
+						{% if page['screen type'] %}
+							<span class="h2">ეკრანის ტიპი</span>
+							<p>{{ page['screen type'] }}</p>
+						{% endif %}
+
+						{% if page['screen size'] %}
+							<span class="h2">ეკრანის ზომა</span>
+							<p>{{ page['screen size'] }}</p>
+						{% endif %}
+						
+						{% if page.battery %}
+							<span class="h2">ელემენტი</span>
+							<p>{{ page.battery }}</p>
+						{% endif %}
+
+						{% if page.year %}
+							<span class="h2">წელი</span>
+							<p>{{ page.year }}</p>
+						{% endif %}
 					</div>
+
 				</article>
 				<aside>
 					<ul>
@@ -41,9 +76,9 @@
 							<img src="{{ page['Thumbnail image'] | prepend: site.baseurl }}"/>
 						</li>
 						{% for image in page.images %}
-						<li>
-							<img src="{{ image | prepend: site.baseurl }}"/>
-						</li>
+							<li>
+								<img src="{{ image | prepend: site.baseurl }}"/>
+							</li>
 						{% endfor %}
 					</ul>
 				</aside>

@@ -117,11 +117,8 @@
 			margin-top: -.5rem;
 			margin-left: -4.4rem;
 			opacity: 0;
-			-webkit-transition: all .5s ease-in-out;
-    		transition: all .5s ease-in-out;
-    		-webkit-transition-delay: .25s;
-    		transition-delay: .25s;
-    		z-index: 2;
+			transition: all .2s ease;
+			z-index: 2;
 		}
 
 		&:after {

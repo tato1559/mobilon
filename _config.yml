@@ -23,7 +23,16 @@ defaults:
     Is in sale: 
     Thumbnail image: 
     price: 
-    old price: 
+    old price:
+    camera:
+    selfie camera:
+    memory:
+    processor:
+    ram:
+    screen type:
+    screen size:
+    battery:
+    year:
     images:
     - 
 author: Revaz Zakalashvili
@@ -31,10 +40,8 @@ tagline: Used Mobile Phones
 description: 
 keywords: 
 email: contact@mobilon.ge
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
-github: https://github.com/
-repository: 
+facebook: https://www.facebook.com/mobilon.ge/
+repository: mobilon/revazi
 baseurl: 
 highlighter: rouge
 sass:
