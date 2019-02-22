@@ -17,12 +17,15 @@ defaults:
     path: ''
     type: phones
   values:
+    layout: phone
     Brand: 
     Is in stock: 
+    Is in sale: 
     Thumbnail image: 
+    price:
+    new price:
     images:
     - 
-    layout: phone
 author: Revaz Zakalashvili
 tagline: Used Mobile Phones
 description: 

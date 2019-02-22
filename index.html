@@ -29,6 +29,12 @@
 						<li>
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
+									<div class="corner-ribbon">SALE</div>
+									<div class="corner-ribbon red right">Out of Stock</div>
+									<div class="corner-ribbon price">
+										<span class="new">400 ლარი</span>
+										<span class="old">650 ლარი</span>
+									</div>
 									<img src="{{ item['Thumbnail image'] | prepend: site.baseurl }}" alt="{{ item.title }}" />
 								</div>
 								<span class="h2">{{ item.Brand }}</span>

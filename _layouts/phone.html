@@ -11,6 +11,10 @@
 	{% include header.html %}
 	<main class="content">
 		<section class="phone">
+			<!-- {{ site | inspect }} -->
+			<a title="მთავარი" href="{{ site.baseurl | append: "/" }}" class="prev">
+				<span class="h2">უკან დაბრუნება</span>
+			</a>
 			<div class="container">
 				<article>
 					<span class="h2">Model</span>
@@ -33,9 +37,12 @@
 				</article>
 				<aside>
 					<ul>
+						<li>
+							<img src="{{ page['Thumbnail image'] | prepend: site.baseurl }}"/>
+						</li>
 						{% for image in page.images %}
 						<li>
-							<img src="{{ image.url | prepend: site.baseurl }}" alt="{{ image.alt }}" />
+							<img src="{{ image | prepend: site.baseurl }}"/>
 						</li>
 						{% endfor %}
 					</ul>
