@@ -7,13 +7,13 @@
 		function sticky() {
 			var w = $(window).width();
 
-			if (w < 750) {
-				$('.phone article').trigger('sticky_kit:detach');
-			} else {
-				$('.phone article').stick_in_parent({
-					offset_top: $('.header').outerHeight()
-				});
-			}
+			// if (w < 750) {
+			// 	$('.phone article').trigger('sticky_kit:detach');
+			// } else {
+			// 	$('.phone article').stick_in_parent({
+			// 		offset_top: $('.header').outerHeight()
+			// 	});
+			// }
 		}
 	});
 
