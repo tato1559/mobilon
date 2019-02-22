@@ -103,7 +103,8 @@
 
 	.img-wrapper {
     position: relative;
-    overflow: hidden;
+		overflow: hidden;
+		height: 350px;
 
 		&:before {
 			content: "View Phone";
@@ -140,7 +141,12 @@
 	}
 
 	img {
-		width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate3d(-50%, -50%, 0);
 	}
 
 	span {
@@ -387,7 +393,8 @@
   color: #f0f0f0;
   transform: rotate(-45deg);
   text-transform: uppercase;
-  font-size: 1.4rem;
+	font-size: 1.4rem;
+	z-index: 1;
   &.red {
     background: $color-red;
   }
