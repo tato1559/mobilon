@@ -13,7 +13,7 @@
 <body>
 	{% include header.html %}
   <main class="content {%if page.url == '/'%} no-padding {%endif%}">
-		{% if site.cats %}
+		{% if false %}
 		<section class="intro">
 			<div class="container">
 				<ul class="categories">
@@ -28,6 +28,7 @@
 		<section class="phones">
 			<div class="container">
 				<h2>Phones</h2>
+				
 				<ul class="phones-list">
 					{% for item in site.phones reversed %}
 						<li>
