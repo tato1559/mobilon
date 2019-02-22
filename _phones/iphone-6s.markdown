@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: iPhone 6s
 date: 2019-02-21 16:56:00 Z
 Brand: Apple
@@ -19,8 +18,5 @@ battery: Li-Ion 1715 mAh battery
 year: 2015
 images:
 - "/uploads/6s-grey.jpeg"
-=======
-title: Iphone 6s
->>>>>>> 0fcbeb94e55845e42faa8df502bb143533558afb
 ---
 
