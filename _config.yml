@@ -1,7 +1,6 @@
 ---
 title: Mobilon
 timezone: UTC
-categories: [ apple, samsung ]
 collections:
   phones:
     title: Phones
@@ -36,6 +35,9 @@ defaults:
     year: 
     images:
     - 
+categories:
+- apple
+- samsung
 author: Revaz Zakalashvili
 tagline: Used Mobile Phones
 description: 
