@@ -43,4 +43,5 @@ window.addEventListener('hashchange', function(){
 });
 document.addEventListener("DOMContentLoaded", function(event) { 
 	filterPhones();
+	manageNavigation();
 });
