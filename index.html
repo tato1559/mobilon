@@ -13,13 +13,13 @@
 <body>
 	{% include header.html %}
   <main class="content {%if page.url == '/'%} no-padding {%endif%}">
-		{% if false %}
+		{% if site.cats %}
 		<section class="intro">
 			<div class="container">
 				<ul class="categories">
-						<a href="#">All</a>
+					<li><a href="#" class="nav-link active" data-category="">All</a></li>
 					{% for item in site.cats %}
-						<a href="#{{ item }}"> {{ item }}</a>
+						<li><a href="#{{ item }}" class="nav-link" data-category="{{ item }}"> {{ item }}</a></li>
 					{% endfor %}
 				</ul>
 			</div>
@@ -31,7 +31,8 @@
 				
 				<ul class="phones-list">
 					{% for item in site.phones reversed %}
-						<li>
+
+						<li data-category="{{ item.categories[0] }}" class="phone-thumbnail">
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
 
