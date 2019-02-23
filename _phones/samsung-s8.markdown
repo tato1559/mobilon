@@ -15,7 +15,7 @@ memory: 64 GB
 processor: Octa-core Qualcomm Snapdragon 835
 ram: 4 GB
 screen type: Super AMOLED
-screen size: 5.8 inch 
+screen size: 5.8 inch
 battery: 3000 mAh battery
 year: 2017
 images:
