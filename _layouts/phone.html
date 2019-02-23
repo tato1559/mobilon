@@ -29,6 +29,25 @@
 					</ul>
 				</aside>
 				<article>
+					{% if page['Is in stock'] %}
+						<span class="h2">ფასი</span>
+						<!-- {% if page['Is in sale'] %}
+							<div class="corner-ribbon relative">SALE</div>
+						{% endif %} -->
+
+						{% if page.price %}
+							<div class="corner-ribbon price relative">
+								<span class="new">{{ page.price }} ლარი</span>
+								{% if page['Is in sale'] %}
+									<span class="old">{{ page['old price'] }} ლარი</span>
+								{% endif %}
+							</div>
+						{% endif %}
+					{% else %}
+						<span class="h2">მარაგი</span>
+						<div class="corner-ribbon price red relative">Out of Stock</div>
+					{% endif %}
+
 					<span class="h2">მოდელი</span>
 					<h1>{{ page.title }}</h1>
 					<span class="h2">ბრენდი</span>

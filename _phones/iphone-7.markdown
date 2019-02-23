@@ -4,7 +4,7 @@ date: 2019-02-22 13:31:00 Z
 categories:
 - apple
 Brand: Apple
-Is in stock: true
+Is in stock: false
 Is in sale: true
 Thumbnail image: "/uploads/iphone7_black.png"
 price: 900

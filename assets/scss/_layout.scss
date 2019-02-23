@@ -447,7 +447,15 @@
       margin-right: 10px;
     }
 
-  }
+	}
+	&.relative {
+		top: 0;
+		left: 0;
+		transform: rotate(0);
+		position: relative;
+		width: auto;
+		display: inline;
+	}
 } 
 
 .categories {
