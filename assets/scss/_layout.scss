@@ -384,6 +384,13 @@
 	}
 }
 
+.follow {
+	@media (min-width: $breakpoint-medium) {
+		float: right;
+		text-align: right;
+	}
+}
+
 .contact,
 .follow {
 	margin-bottom: 3rem;
