@@ -40,10 +40,15 @@
 	top: 0;
 	left: 0;
 	z-index: 1;
-
+	&.single-phone {
+		padding-top: 0;
+	}
 	@media (min-width: $breakpoint-medium) {
 		padding: 21rem 0 0;
 		margin-bottom: 23.42rem;
+		&.single-phone {
+			padding: 21rem 0 0;
+		}
 	}
 }
 
@@ -494,6 +499,19 @@
 	}
 }
 
+.back {
+	font-size: 1.6em;
+	transition: margin 0.2s ease;
+	&:hover {
+		margin-left: -0.5em;
+	}
+	&:before {
+		content: "\02190";
+		display: block;
+	}
+}
+
 .hidden {
 	display: none;
 }
+
