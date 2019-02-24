@@ -20,5 +20,6 @@ battery: 3000 mAh battery
 year: 2017
 images:
 - "/uploads/samsung-s8-1.jpg"
+- "/uploads/samsung-s8-1.jpg"
 ---
 
