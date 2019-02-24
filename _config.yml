@@ -2,9 +2,16 @@
 title: Mobilon
 timezone: UTC
 collections:
+<<<<<<< HEAD
   # pages:
   #   output: true,
   #   permalink: "/:path"
+=======
+  pages:
+    title: Pages
+    output: true
+    permalink: "/:path"
+>>>>>>> 71c25d5fb4a56390f401febab55e4e3c6e7e2e71
   phones:
     title: Phones
     output: true
