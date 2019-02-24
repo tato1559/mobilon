@@ -4,7 +4,7 @@ date: 2019-02-21 16:56:00 Z
 categories:
 - samsung
 Brand: Samsung
-Is in stock: true
+Is in stock: false
 Is in sale: true
 Thumbnail image: "/uploads/samsung-s8.jpg"
 price: 1200
