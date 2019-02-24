@@ -5,7 +5,7 @@ categories:
 - samsung
 Brand: Samsung
 Is in stock: true
-Is in sale: true
+Is in sale: false
 Thumbnail image: "/uploads/samsung-s8.jpg"
 price: 1200
 old price: 1300
@@ -20,5 +20,7 @@ battery: 3000 mAh battery
 year: 2017
 images:
 - "/uploads/samsung-s8-1.jpg"
+- "/uploads/samsung-s8-1.jpg"
 ---
 
+test test test
