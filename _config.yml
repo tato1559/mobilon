@@ -2,9 +2,9 @@
 title: Mobilon
 timezone: UTC
 collections:
-  pages:
-    output: true,
-    permalink: "/:path"
+  # pages:
+  #   output: true,
+  #   permalink: "/:path"
   phones:
     title: Phones
     output: true
@@ -49,6 +49,7 @@ email: contact@mobilon.ge
 facebook: https://www.facebook.com/mobilon.ge/
 repository: mobilon/revazi
 baseurl: 
+permalink: "/:path/"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
