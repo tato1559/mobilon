@@ -2,7 +2,7 @@
 title: iPhone 7
 date: 2019-02-22 13:31:00 Z
 categories:
-- apple
+- motorola
 Brand: Apple
 Is in stock: false
 Is in sale: true
