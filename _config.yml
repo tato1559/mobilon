@@ -2,6 +2,10 @@
 title: Mobilon
 timezone: UTC
 collections:
+  pages:
+    title: Pages
+    output: true
+    permalink: "/:path"
   phones:
     title: Phones
     output: true
@@ -13,6 +17,11 @@ collections:
     title: Uploads
     output: true
 defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
 - scope:
     path: ''
     type: phones
