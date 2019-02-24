@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>{{ site.author }} / {{ page.project.title }}</title>
+	<meta name="author" content="{{ site.author }}">
+	<meta name="description" content="{{ page.content | strip_html | strip_newlines }}">
+	<meta name="keywords" content="{{ page.meta.keywords }}">
+	{% include head.html %}
+</head>
+<body>
+    {% include header.html %}
+    <main class="content">
+        {{ page | inspect }}
+    </main>
+	{% include footer.html %}
+	<script src="{{ "/assets/scripts/page.js" | prepend: site.baseurl }}"></script>
+</body>
+</html>
