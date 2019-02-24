@@ -9,8 +9,14 @@
 </head>
 <body>
     {% include header.html %}
-    <main class="content">
-        {{ page | inspect }}
+
+    <main class="content no-padding">
+        <section class="intro">
+            <div class="container">
+                <h2>{{ page.title }}</h2>
+                <p>{{ page.description }}</p>
+            </div>
+        </section>
     </main>
 	{% include footer.html %}
 	<script src="{{ "/assets/scripts/page.js" | prepend: site.baseurl }}"></script>
