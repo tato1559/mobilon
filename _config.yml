@@ -3,7 +3,8 @@ title: Mobilon
 timezone: UTC
 collections:
   pages:
-    output: true,
+    title: Pages
+    output: true
     permalink: "/:path"
   phones:
     title: Phones
