@@ -5,8 +5,8 @@ categories:
 - apple
 Brand: Apple
 Is in stock: true
-Thumbnail image: "/uploads/item_XL_5754742_6004683.jpg"
-price: 340 ლარი
+Thumbnail image: "/uploads/5s.jpg"
+price: 340
 camera: 8 MP
 selfie camera: 1.2 MP
 memory: 16/32/64 GB
