@@ -1,6 +1,10 @@
 ---
 ---
-
+<!-- TODO:: Logo, Nav menu(contact[map, info], about us), listing hover effect change 
+	sale: ფასდაკლება
+	out of stock: ამოწურულია
+	move to configuration
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,7 +31,7 @@
 		{% endif %}
 		<section class="phones">
 			<div class="container">
-				<h2>Phones</h2>
+				<h2>{{ site.products }}</h2>
 				
 				<ul class="phones-list">
 					{% for item in site.phones reversed %}
@@ -35,11 +39,11 @@
 						<li data-category="{{ item.categories[0] }}" class="phone-thumbnail">
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
-
+									<span class="phone-badge">{{ site['view phone'] }}</span>
 									{% if item['Is in stock'] %}
 
 										{% if item['Is in sale'] %}
-											<div class="corner-ribbon">SALE</div>
+											<div class="corner-ribbon red">{{ site.sale }}</div>
 										{% endif %}
 
 										{% if item.price %}
@@ -51,7 +55,7 @@
 											</div>
 										{% endif %}
 									{% else %}
-										<div class="corner-ribbon red">Out of Stock</div>
+										<div class="corner-ribbon red">{{ site['out of stock'] }}</div>
 									{% endif %}
 
 									<img src="{{ item['Thumbnail image'] | prepend: site.baseurl }}" alt="{{ item.title }}" />

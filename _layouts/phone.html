@@ -33,7 +33,6 @@
 						<!-- {% if page['Is in sale'] %}
 							<div class="corner-ribbon relative">SALE</div>
 						{% endif %} -->
-
 						{% if page.price %}
 							<div class="corner-ribbon price relative">
 								<span class="new">{{ page.price }} ლარი</span>
@@ -44,7 +43,7 @@
 						{% endif %}
 					{% else %}
 						<span class="h2">მარაგი</span>
-						<div class="corner-ribbon price red relative">Out of Stock</div>
+						<div class="corner-ribbon price red relative">{{ site['out of stock'] }}</div>
 					{% endif %}
 
 					<span class="h2">ბრენდი</span>
