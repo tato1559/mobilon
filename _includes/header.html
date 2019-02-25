@@ -2,6 +2,19 @@
 	<div class="container">
 		<h1 class="logo">
 			<a title="{{ site.title }}" href="{{ site.baseurl | append: "/" }}">{{ site.title }}</a>
+			<div class="bars">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
 		</h1>
+		{% if site.data.menus.header %}
+			<ul class="header-navigation">
+				{% for item in site.data.menus.header %}
+					<li class="{% if page.url == item.url %}active{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a></li>
+				{% endfor %}
+			</ul>
+		{% endif %}
 	</div>
 </header>

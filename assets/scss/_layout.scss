@@ -9,6 +9,36 @@
 .header {
 	background: $color-white;
 	padding: 3rem 0;
+	.logo {
+		position: relative;
+		display: flex;
+		align-items: baseline;
+		a {
+		color: $color-grey-darker;
+		}
+	}
+	&-navigation {
+		display: flex;
+		justify-content: flex-end;
+		li {
+			&+li {
+				margin-left: 15px;
+			}
+			&:hover,
+			&.active {
+				a {
+					color: $color-menu-red;
+					color: $color-purple;
+				}
+			}
+		}
+
+		a {
+			color: $color-grey-darker;
+			transition: color 0.2s ease;
+		}
+	}
+
 }
 
 .logo {
@@ -20,7 +50,7 @@
 	a {
 		font-size: 1.2em;
 		font-weight: lighter;
-		letter-spacing: 2px;
+		letter-spacing: 0.5px;
 	}
 }
 
@@ -434,7 +464,7 @@
 	font-size: 1.4rem;
 	z-index: 1;
   &.red {
-    background: $color-red;
+    background: $color-menu-red;
   }
 
   &.right {
@@ -532,3 +562,126 @@
 	display: none;
 }
 
+// .bars {
+// 	span {
+// 		background: $color-purple;
+// 		display: inline-block;
+// 		opacity: 0.6;
+// 		height: 20px;
+// 		width: 3px;
+// 		margin: 0 1px;
+// 		&:nth-child(1) {
+// 			height: 5px;
+// 		}
+// 	}
+// }
+
+
+.bars {
+  list-style: none;
+  display: block;
+  width: 20px;
+
+  height: 20px;
+	margin-left: 5px;
+  padding: 0;
+  transform: rotate(180deg);
+  pointer-events: none;
+  span {
+    width: calc(25% - 2px);
+    height: 100;
+    margin-right: 2px;
+    display: inline-block;
+    float: left;
+    bottom: 0;
+    background: $color-purple;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+    &:first-child {
+      height: 100%;
+      animation-name: changeOne;
+    }
+    &:nth-child(2) {
+      height: 75%;
+      animation-name: changeTwo;
+    }
+    &:nth-child(3) {
+      height: 50%;
+      animation-name: changeThree;
+    }
+    &:nth-child(4) {
+      height: 25%;
+      animation-name: changeFour;
+    }
+
+  }
+}
+
+
+@keyframes changeOne {
+  0% {
+   opacity: 0.5; 
+  }
+  60% {
+   opacity: 0.5; 
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+
+
+@keyframes changeTwo {
+  0% {
+    opacity: 0.5;
+  }
+  40% {
+    opacity: 0.5;
+  }
+  60% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+
+
+@keyframes changeThree {
+  0% {
+    opacity: 0.5;
+  }
+  20% {
+    opacity: 0.5;
+  }
+  40% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes changeFour {
+  0% {
+   opacity: 0.5; 
+  }
+  20% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
