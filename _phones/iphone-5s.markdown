@@ -1,6 +1,8 @@
 ---
 title: iPhone 5s
 date: 2019-02-25 10:38:00 Z
+categories:
+- apple
 Brand: Apple
 Is in stock: true
 Thumbnail image: "/uploads/item_XL_5754742_6004683.jpg"
