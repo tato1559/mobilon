@@ -15,13 +15,17 @@
             <div class="container">
                 <h2>{{ page.title }}</h2>
                 <p>{{ page.content }}</p>
-                {% if page.url == '/contact/' %}
+                {% if page.url == '/contact/' and site['enable map'] %}
                     <div id="map" data-lat="{{ site.lat }}" data-lng="{{ site.lng }}"></div>
+                {% elsif page['map image'] %}
+                    <div id="map">
+                        <img src="{{ page['map image'] | prepend: site.baseurl }}"/>
+                    </div>
                 {% endif %}
             </div>
         </section>
     </main>
-    {% if page.url == '/contact/' %}
+    {% if page.url == '/contact/' and site['enable map'] %}
     <script>
         function initMap() {
             var mapElem = document.getElementById('map');
