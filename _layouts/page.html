@@ -15,10 +15,34 @@
             <div class="container">
                 <h2>{{ page.title }}</h2>
                 <p>{{ page.content }}</p>
+                {% if page.url == '/contact/' %}
+                    <div id="map" data-lat="{{ site.lat }}" data-lng="{{ site.lng }}"></div>
+                {% endif %}
             </div>
         </section>
     </main>
-	{% include footer.html %}
-	<script src="{{ "/assets/scripts/page.js" | prepend: site.baseurl }}"></script>
+    {% if page.url == '/contact/' %}
+    <script>
+        function initMap() {
+            var mapElem = document.getElementById('map');
+            var lat = parseFloat(mapElem.dataset.lat);
+            var lng = parseFloat(mapElem.dataset.lng);
+            var mobilon = {lat: lat, lng: lng};
+
+            var map = new google.maps.Map(mapElem, 
+                {
+                    zoom: 18,
+                    center: mobilon,
+                    disableDefaultUI: true
+                }
+            );
+
+            var marker = new google.maps.Marker({position: mobilon, map: map});
+        }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site['google api'] }}&callback=initMap"> </script>
+    {% endif %}
+    <script src="{{ "/assets/scripts/page.js" | prepend: site.baseurl }}"></script>
+    {% include footer.html %}
 </body>
 </html>
