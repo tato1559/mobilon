@@ -16,5 +16,7 @@ screen type: Super AMOLED capacitive touchscreen
 screen size: 5.1 inches
 battery: 2800 mAh
 year: 2014
+images:
+- "/uploads/s5.png"
 ---
 
