@@ -5,7 +5,7 @@ categories:
 - samsung
 Brand: Apple
 Is in stock: false
-Thumbnail image: "/uploads/s5%201.jpg"
+Thumbnail image: "/uploads/s5.jpg"
 price: 350
 camera: 16 MP
 selfie camera: 2 MP
