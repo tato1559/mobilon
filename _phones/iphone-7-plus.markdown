@@ -5,7 +5,7 @@ categories:
 - apple
 Brand: Apple
 Is in stock: true
-Thumbnail image: "/uploads/7p.jpg"
+Thumbnail image: "/uploads/7p2.jpg"
 price: 1350
 camera: Dual 12 MP
 selfie camera: 7 MP
