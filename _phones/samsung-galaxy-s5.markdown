@@ -4,7 +4,7 @@ date: 2019-02-26 23:47:00 Z
 categories:
 - samsung
 Brand: Apple
-Is in stock: false
+Is in stock: true
 Thumbnail image: "/uploads/s5.jpg"
 price: 350
 camera: 16 MP
