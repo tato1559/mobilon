@@ -6,7 +6,7 @@ categories:
 Brand: 'Apple '
 Is in stock: true
 Is in sale: true
-Thumbnail image: "/uploads/6.jpg"
+Thumbnail image: "/uploads/6%202.jpg"
 price: 540
 old price: 590
 camera: 8 MP
