@@ -14,7 +14,7 @@
         <section class="intro">
             <div class="container">
                 <h2>{{ page.title }}</h2>
-                <p>{{ page.content | markdownify }}</p>
+                <div class="markdownified">{{ page.content | markdownify }}</div>
                 {% if page.url == '/contact/' and site['enable map'] %}
                     <div id="map" data-lat="{{ site.lat }}" data-lng="{{ site.lng }}"></div>
                 {% elsif page['map image'] %}
