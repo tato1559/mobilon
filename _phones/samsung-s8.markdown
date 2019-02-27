@@ -8,8 +8,8 @@ Brand: Samsung
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/samsung-s8.jpg"
-price: 1200
-old price: 1300
+price: 1050
+old price: 1250
 camera: 12 MP
 selfie camera: 8 MP
 memory: 64 GB
