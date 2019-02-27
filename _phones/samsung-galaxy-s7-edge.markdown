@@ -4,7 +4,7 @@ date: 2019-02-27 00:27:00 Z
 categories:
 - samsung
 Brand: Samsung
-Is in stock: false
+Is in stock: true
 Thumbnail image: "/uploads/s7e1.jpg"
 price: 850
 camera: 12 MP
