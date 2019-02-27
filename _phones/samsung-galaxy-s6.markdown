@@ -5,7 +5,7 @@ categories:
 - samsung
 Brand: 'Samsung '
 Is in stock: true
-Thumbnail image: "/uploads/s6-705ef6.png"
+Thumbnail image: "/uploads/s6-a08c6a.png"
 price: 480
 camera: 16 MP
 selfie camera: 5 MP
