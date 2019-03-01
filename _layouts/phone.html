@@ -102,6 +102,37 @@
 						{% endif %}
 					</div>
 
+					{% if page['Is in stock'] %}
+					<div class="installment hidden">
+						<span class="h2">განვადება</span>
+						<ul>
+							<li class="credo"><img src="./assets/images/credo.jpg" alt=""></li>
+						</ul>
+						{% assign check = 
+							page.id 
+							| append: "," 
+							| append: page.title 
+							| append: ",1,"
+							| append: page.price
+							| append: ",1" 
+						%}
+						<form  action="http://ganvadeba.credo.ge/widget/" method="post" class="hidden"> 
+							<input class="credoinstallment" type="hidden" name="credoinstallment" 
+							value='{"merchantId":"", 
+							"orderCode":"", 
+							"check": "{{ check | md5 }}", 
+							"products":[ 
+							{"id":"{{ page.id }}", 
+							"title": "{{ page.title }}", 
+							"amount":"1", 
+							"price": "{{ page.price }}00", 
+							"type":"1"} 
+							 ]
+							}' /> 
+							<input id="credoInstallmentSubmit"type="submit" value="go" /> 
+						</form>
+					</div>
+					{% endif %}
 				</article>
 			</div>
 		</section>

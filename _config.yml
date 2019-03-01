@@ -75,3 +75,5 @@ kramdown:
 sass:
   sass_dir: assets/scss
   style: compressed
+plugins:
+- jekyll-md5

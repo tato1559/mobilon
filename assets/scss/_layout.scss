@@ -700,3 +700,17 @@
     margin: 0 0 2rem; 
   }
 }
+
+.installment {
+	margin: 2rem 0;
+	ul {
+		list-style: none;
+		display: flex;
+		justify-content: space-between;
+		li {
+			margin: 1rem 0;
+			max-width: 130px;
+			cursor: pointer;
+		}
+	}
+}
