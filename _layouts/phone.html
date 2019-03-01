@@ -103,7 +103,7 @@
 					</div>
 
 					{% if page['Is in stock'] %}
-					<div class="installment hidden">
+					<div class="installment {% unless site.credoId %}hidden{% endunless %}">
 						<span class="h2">განვადება</span>
 						<ul>
 							<li class="credo"><img src="./assets/images/credo.jpg" alt=""></li>
@@ -116,9 +116,10 @@
 							| append: page.price
 							| append: ",1" 
 						%}
+
 						<form  action="http://ganvadeba.credo.ge/widget/" method="post" class="hidden"> 
 							<input class="credoinstallment" type="hidden" name="credoinstallment" 
-							value='{"merchantId":"", 
+							value='{"merchantId":"{{ site.credoId }}", 
 							"orderCode":"", 
 							"check": "{{ check | md5 }}", 
 							"products":[ 
