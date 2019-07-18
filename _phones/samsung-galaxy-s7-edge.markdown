@@ -6,7 +6,8 @@ categories:
 Brand: Samsung
 Is in stock: true
 Thumbnail image: "/uploads/s7e1.jpg"
-price: 850
+price: 650
+old price: 780
 camera: 12 MP
 selfie camera: 5 MP
 memory: 4 GB RAM
