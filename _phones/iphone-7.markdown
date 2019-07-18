@@ -8,8 +8,8 @@ Brand: Apple
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/iphone7_black.png"
-price: 900
-old price: 1000
+price: 850
+old price: 980
 camera: 12 MP
 selfie camera: 7 MP
 memory: 32 GB
