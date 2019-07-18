@@ -18,6 +18,9 @@ battery: 1432Mah
 year: 2011
 images:
 - "/uploads/IMG_0076.JPG"
+- "/uploads/IMG_0081.JPG"
+- "/uploads/IMG_0079.JPG"
+Field name: 
 ---
 
 iPhone 4s 
