@@ -6,7 +6,8 @@ categories:
 Brand: Apple
 Is in stock: true
 Thumbnail image: "/uploads/6sp-2.jpg"
-price: 850
+price: 750
+old price: 840
 camera: 12 MP
 selfie camera: 5 MP
 memory: 16 gb
