@@ -6,7 +6,8 @@ categories:
 Brand: Apple
 Is in stock: true
 Thumbnail image: "/uploads/7pa-a70694.jpg"
-price: 1350
+price: 1250
+old price: 1350
 camera: Dual 12 MP
 selfie camera: 7 MP
 memory: 32 gb
