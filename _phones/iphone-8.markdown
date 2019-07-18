@@ -8,8 +8,8 @@ Brand: Apple
 Is in stock: true
 Is in sale: false
 Thumbnail image: "/uploads/iphone-8-gold.jpg"
-price: 1200
-old price: 1300
+price: 1400
+old price: 1500
 camera: 12 MP
 selfie camera: 7 MP
 memory: 32 GB
