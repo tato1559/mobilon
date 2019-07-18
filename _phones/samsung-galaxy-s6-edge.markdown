@@ -6,7 +6,8 @@ categories:
 Brand: Samsung
 Is in stock: true
 Thumbnail image: "/uploads/galaxy-s6-edge-topic.png"
-price: 650
+price: 580
+old price: 650
 camera: 16 MP
 selfie camera: 5 MP
 memory: 32 gb
