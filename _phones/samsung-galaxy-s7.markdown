@@ -6,7 +6,8 @@ categories:
 Brand: Samsung
 Is in stock: true
 Thumbnail image: "/uploads/s7.jpg"
-price: 650
+price: 550
+old price: 650
 camera: 12 MP
 selfie camera: 5 MP
 memory: 32 gb
