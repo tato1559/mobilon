@@ -6,7 +6,8 @@ categories:
 Brand: Apple
 Is in stock: true
 Thumbnail image: "/uploads/s5.jpg"
-price: 350
+price: 290
+old price: 350
 camera: 16 MP
 selfie camera: 2 MP
 memory: 32 gb
