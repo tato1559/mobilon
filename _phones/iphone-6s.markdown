@@ -21,5 +21,10 @@ battery: Li-Ion 1715 mAh battery
 year: 2015
 images:
 - "/uploads/6s-grey.jpeg"
+- "/uploads/%E1%83%90%E1%83%A1%E1%83%93%E1%83%A4%E1%83%92%E1%83%93%E1%83%A1.jpg"
+- "/uploads/20170607_235059.jpg"
+- "/uploads/20170607_210203.jpg"
+- "/uploads/20170607_212152.jpg"
+- "/uploads/20170607_212426.jpg"
 ---
 
