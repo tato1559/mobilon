@@ -8,7 +8,7 @@ Brand: Apple
 Is in stock: true
 Is in sale: false
 Thumbnail image: "/uploads/6s-grey-1.jpeg"
-price: 580
+price: 470
 old price: 650
 camera: 12 MP
 selfie camera: 5 MP
