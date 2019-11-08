@@ -18,6 +18,11 @@ screen type: LED-backlit IPS LCD
 screen size: 4.7 inches
 battery: 1810 mAh
 year: 2015
+images:
+- "/uploads/%E1%83%90%E1%83%AC%E1%83%93%E1%83%90%E1%83%AC%E1%83%93.jpg"
+- "/uploads/20170607_205838.jpg"
+- "/uploads/20170607_205910.jpg"
+- "/uploads/20170607_210203-6ec7cc.jpg"
 ---
 
 
