@@ -7,7 +7,7 @@ position: 0
 Brand: Apple
 Is in stock: true
 Thumbnail image: "/uploads/5s.jpg"
-price: 290
+price: 250
 old price: 350
 camera: 8 MP
 selfie camera: 1.2 MP
