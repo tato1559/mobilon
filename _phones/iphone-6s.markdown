@@ -6,7 +6,7 @@ categories:
 position: 9
 Brand: Apple
 Is in stock: true
-Is in sale: false
+Is in sale: true
 Thumbnail image: "/uploads/6s-grey-1.jpeg"
 price: 470
 old price: 650
