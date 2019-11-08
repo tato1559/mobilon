@@ -1,12 +1,12 @@
 ---
-title: Samsung Galaxy s6 edge
+title: Galaxy s6 edge
 date: 2019-02-27 00:13:00 Z
 categories:
 - samsung
 Brand: Samsung
 Is in stock: true
 Thumbnail image: "/uploads/galaxy-s6-edge-topic.png"
-price: 580
+price: 480
 old price: 650
 camera: 16 MP
 selfie camera: 5 MP
@@ -19,3 +19,16 @@ battery: 2600mAh
 year: 2016
 ---
 
+♦️ გვაქვს მხოლოდ ამერიკიდან ჩამოტანილი ორიგინალი ტელეფონები. 
+
+
+♦️ ტელეფონებზე მოქმედებს სრული გარანტია.
+
+
+♦️ მოქმედებს საბანკო განვადება.
+
+
+♦️ უფასო მიტანის სერვისი საქართველოს მასშტაბით.
+
+
+♦️ მისამართი: ცაბაძის 11 დინამოს მოპირდაპირედ. სპორტული მაღაზიების ჩაყოლებაზე. T:595 46 30 30
