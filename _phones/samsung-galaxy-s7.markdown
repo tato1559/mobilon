@@ -3,6 +3,7 @@ title: Samsung Galaxy s7
 date: 2019-02-27 00:20:00 Z
 categories:
 - samsung
+position: 5
 Brand: Samsung
 Is in stock: true
 Is in sale: true

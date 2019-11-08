@@ -3,6 +3,7 @@ title: iPhone 7 Plus
 date: 2019-02-27 00:43:00 Z
 categories:
 - apple
+position: 1
 Brand: Apple
 Is in stock: true
 Thumbnail image: "/uploads/7pa-a70694.jpg"

@@ -3,7 +3,7 @@ title: Galaxy S8
 date: 2019-02-21 16:56:00 Z
 categories:
 - samsung
-position: 4
+position: 13
 Brand: Samsung
 Is in stock: true
 Is in sale: true

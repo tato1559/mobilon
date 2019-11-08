@@ -3,7 +3,7 @@ title: iPhone 7
 date: 2019-02-22 13:31:00 Z
 categories:
 - apple
-position: 2
+position: 11
 Brand: Apple
 Is in stock: true
 Is in sale: true

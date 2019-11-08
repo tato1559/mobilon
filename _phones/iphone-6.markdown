@@ -3,6 +3,7 @@ title: iPhone 6
 date: 2019-02-25 11:20:00 Z
 categories:
 - apple
+position: 6
 Brand: 'Apple '
 Is in stock: true
 Is in sale: true

@@ -3,6 +3,7 @@ title: Samsung Galaxy s7 Edge
 date: 2019-02-27 00:27:00 Z
 categories:
 - samsung
+position: 3
 Brand: Samsung
 Is in stock: true
 Thumbnail image: "/uploads/s7e1.jpg"
