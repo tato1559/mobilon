@@ -20,6 +20,10 @@ screen size: 4.7 inch
 battery: Li-Ion 1960 mAh battery
 year: 2016
 images:
-- "/uploads/iphone7_black-1.jpg"
+- "/uploads/20170206_024148.jpg"
+- "/uploads/20170206_023939.jpg"
+- "/uploads/20170607_200744.jpg"
+- "/uploads/20170607_204726.jpg"
+- "/uploads/20170607_204855.jpg"
 ---
 
