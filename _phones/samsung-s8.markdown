@@ -8,7 +8,7 @@ Brand: Samsung
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/samsung-s8.jpg"
-price: 950
+price: 870
 old price: 1000
 camera: 12 MP
 selfie camera: 8 MP
@@ -21,7 +21,9 @@ battery: 3000 mAh battery
 year: 2017
 images:
 - "/uploads/samsung-s8-1.jpg"
-- "/uploads/samsung-s8-1.jpg"
+- "/uploads/afegrhtngf.jpg"
+- "/uploads/IMG_0071.JPG"
+- "/uploads/IMG_0070.JPG"
 ---
 
 test test test
