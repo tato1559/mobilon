@@ -7,8 +7,8 @@ Brand: 'Apple '
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/6%202.jpg"
-price: 470
-old price: 590
+price: 380
+old price: 470
 camera: 8 MP
 selfie camera: 1.2 MP
 memory: 16/32/64/128 GB
