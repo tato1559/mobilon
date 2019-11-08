@@ -6,6 +6,7 @@ categories:
 position: 8
 Brand: Apple
 Is in stock: true
+Is in sale: true
 Thumbnail image: "/uploads/5s.jpg"
 price: 250
 old price: 350
