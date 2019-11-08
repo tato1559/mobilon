@@ -3,7 +3,7 @@ title: Samsung Galaxy s5
 date: 2019-02-26 23:47:00 Z
 categories:
 - samsung
-position: 7
+position: 6
 Brand: Apple
 Is in stock: true
 Is in sale: true

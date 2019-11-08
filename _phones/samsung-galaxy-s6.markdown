@@ -3,7 +3,7 @@ title: Samsung Galaxy s6
 date: 2019-02-27 00:03:00 Z
 categories:
 - samsung
-position: 2
+position: 1
 Brand: 'Samsung '
 Is in stock: true
 Thumbnail image: "/uploads/s6-a08c6a.png"
