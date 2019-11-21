@@ -4,7 +4,6 @@ date: 2019-02-27 00:38:00 Z
 categories:
 - apple
 position: 3
-Brand: Apple
 Is in stock: true
 Thumbnail image: "/uploads/6sp-2.jpg"
 price: 750
