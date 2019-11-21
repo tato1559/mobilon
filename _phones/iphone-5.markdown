@@ -3,6 +3,7 @@ title: iPhone 5
 date: 2019-11-21 04:52:00 Z
 categories:
 - apple
+Brand: Apple
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/61lyvsbbtql._sx385_.jpg"
