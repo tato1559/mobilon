@@ -1,6 +1,8 @@
 ---
 title: Samsung Galaxy s9
 date: 2019-11-21 05:20:00 Z
+categories:
+- samsung
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/152964_2.jpg"
