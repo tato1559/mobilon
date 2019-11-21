@@ -4,7 +4,6 @@ date: 2019-07-18 06:36:00 Z
 categories:
 - apple
 position: 11
-Brand: Apple
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/%D7%90%D7%99%D7%99%D7%A4%D7%95%D7%9F-4-%D7%90%D7%A1.png"
@@ -26,4 +25,3 @@ images:
 Field name: 
 ---
 
-iPhone 4s 
