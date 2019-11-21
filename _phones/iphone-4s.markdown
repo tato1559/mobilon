@@ -1,6 +1,8 @@
 ---
 title: iPhone 4s
 date: 2019-07-18 06:36:00 Z
+categories:
+- apple
 position: 11
 Brand: Apple
 Is in stock: true
