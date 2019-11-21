@@ -4,7 +4,7 @@ date: 2019-02-27 00:27:00 Z
 categories:
 - samsung
 position: 2
-Brand: აწდაწდ
+Brand: Samsung
 Is in stock: true
 Thumbnail image: "/uploads/s7e1.jpg"
 price: 650
