@@ -1,5 +1,5 @@
 ---
-title: Samsung Galaxy s7 Edge
+title: Galaxy s7 Edge
 date: 2019-02-27 00:27:00 Z
 categories:
 - samsung
