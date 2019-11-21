@@ -4,7 +4,6 @@ date: 2019-02-21 16:56:00 Z
 categories:
 - apple
 position: 12
-Brand: Apple
 Is in stock: true
 Is in sale: false
 Thumbnail image: "/uploads/iphone-8-gold.jpg"
