@@ -4,7 +4,6 @@ date: 2019-02-25 10:38:00 Z
 categories:
 - apple
 position: 8
-Brand: Apple
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/5s.jpg"
@@ -21,4 +20,3 @@ battery: 1560 mAh
 year: 2014
 ---
 
-ასბრდვსფადსფდგბ
