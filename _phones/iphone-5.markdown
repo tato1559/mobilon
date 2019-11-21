@@ -18,8 +18,5 @@ screen type: LCD
 screen size: 4.0"
 battery: 1440mAh
 year: 2013
-images:
-- "/uploads/61lyvsbbtql._sx385_.jpg"
-- 
 ---
 
