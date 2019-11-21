@@ -19,5 +19,10 @@ screen type: Super AMOLED capacitive touchscreen
 screen size: 5.1 inches
 battery: 3000 mAh
 year: 2017
+images:
+- 
+- "/uploads/fsdgfhgnhmjm.jpg"
+- "/uploads/IMG_0026.JPG"
+- "/uploads/IMG_0027.JPG"
 ---
 
