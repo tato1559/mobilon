@@ -8,10 +8,12 @@ tags:
 Brand: 'apple iPhone 12 '
 Is in stock: true
 Is in sale: true
-price: 2142312
-old price: 123123123
+price: 1500
+old price: 1600
 camera: 123
 selfie camera: 123124
+images:
+- "/uploads/20190604_131114.jpg"
 ---
 
 sssssss
