@@ -4,7 +4,6 @@ date: 2019-11-21 05:04:00 Z
 categories:
 - apple
 position: 1
-Brand: Apple
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/se_all_gris.png"
