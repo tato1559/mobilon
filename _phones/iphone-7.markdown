@@ -1,5 +1,5 @@
 ---
-title: iPhone 7
+title: iPhone 7 Black
 date: 2019-02-22 13:31:00 Z
 categories:
 - apple
@@ -7,7 +7,7 @@ position: 19
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/iphone7_black.png"
-price: 850
+price: 690
 old price: 980
 camera: 12 MP
 selfie camera: 7 MP
