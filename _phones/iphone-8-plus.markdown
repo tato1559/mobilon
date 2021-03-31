@@ -11,7 +11,8 @@ price: 1650
 old price: 1900
 camera: 12 MP
 selfie camera:
-- 
+  Key 1: 12
+  Key: 34
 memory: 64 GB
 processor: 'Apple A11 Bionic '
 ram: 3GB RAM
