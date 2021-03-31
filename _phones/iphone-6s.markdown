@@ -3,7 +3,7 @@ title: iPhone 6s
 date: 2019-02-21 16:56:00 Z
 categories:
 - apple
-position: 9
+position: 18
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/6s-grey-1.jpeg"

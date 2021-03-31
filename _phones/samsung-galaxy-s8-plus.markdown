@@ -3,6 +3,7 @@ title: Samsung Galaxy s8+
 date: 2019-11-21 05:16:00 Z
 categories:
 - samsung
+position: 7
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/61MF7kZkrIL._SX425_.jpg"

@@ -3,6 +3,7 @@ title: iPhone 5c
 date: 2019-11-21 04:59:00 Z
 categories:
 - apple
+position: 0
 Brand: Apple
 Is in stock: true
 Is in sale: true

@@ -3,6 +3,7 @@ title: Samsung Galaxy Note 8
 date: 2019-11-21 05:29:00 Z
 categories:
 - samsung
+position: 4
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/samsung-galaxy-note-8-launched-in-india-at-rs-67900.webp"

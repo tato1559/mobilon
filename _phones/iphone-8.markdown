@@ -3,7 +3,7 @@ title: iPhone 8
 date: 2019-02-21 16:56:00 Z
 categories:
 - apple
-position: 12
+position: 21
 Is in stock: true
 Is in sale: false
 Thumbnail image: "/uploads/iphone-8-gold.jpg"

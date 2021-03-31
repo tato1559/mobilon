@@ -5,6 +5,7 @@ categories:
 - apple
 tags:
 - apple
+position: 8
 Brand: 'apple iPhone 12 '
 Is in stock: true
 Is in sale: true

@@ -3,6 +3,7 @@ title: iPhone 8 Plus
 date: 2019-11-21 05:11:00 Z
 categories:
 - apple
+position: 2
 Brand: Apple
 Is in stock: true
 Is in sale: true

@@ -3,7 +3,7 @@ title: Galaxy s6 edge
 date: 2019-02-27 00:13:00 Z
 categories:
 - samsung
-position: 7
+position: 16
 Brand: Samsung
 Is in stock: true
 Thumbnail image: "/uploads/galaxy-s6-edge-topic.png"
