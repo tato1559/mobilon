@@ -4,7 +4,6 @@ date: 2019-02-27 00:20:00 Z
 categories:
 - samsung
 position: 13
-Brand: Samsung
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/s7.jpg"
@@ -26,3 +25,7 @@ images:
 - "/uploads/IMG_0027.JPG"
 ---
 
+* მოყვება: 
+* ➣ დამტენი
+* ➣ USB კაბელი
+* ➣ ჩასადები კეისი
