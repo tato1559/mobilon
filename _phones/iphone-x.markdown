@@ -1,6 +1,8 @@
 ---
 title: Apple iPhone x
 date: 2021-03-28 21:20:00 Z
+categories:
+- apple
 position: 5
 Is in stock: true
 Thumbnail image: "/uploads/913201720152AM_635_iphone_x.jpeg"
