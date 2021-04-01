@@ -7,7 +7,7 @@ position: 18
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/6s-grey-1.jpeg"
-price: 470
+price: 490
 old price: 650
 camera: 12 MP
 selfie camera: 5 MP
