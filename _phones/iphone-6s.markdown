@@ -1,5 +1,5 @@
 ---
-title: iPhone 6s
+title: iPhone 6s space gray
 date: 2019-02-21 16:56:00 Z
 categories:
 - apple
