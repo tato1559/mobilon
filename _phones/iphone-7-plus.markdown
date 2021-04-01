@@ -6,7 +6,7 @@ categories:
 position: 9
 Is in stock: true
 Thumbnail image: "/uploads/7pa-a70694.jpg"
-price: 1250
+price: 1150
 old price: 1350
 camera: Dual 12 MP
 selfie camera: 7 MP
@@ -18,3 +18,8 @@ screen size: 5.5 inches
 2900 mAh battery: 
 ---
 
+* მოყვება: 
+* ➣ დამტენი
+* ➣ USB კაბელი
+* ➣ ბრონის დაკვრა
+* ➣ ჩასადები კეისი
