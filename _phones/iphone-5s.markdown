@@ -1,5 +1,5 @@
 ---
-title: iPhone 5s
+title: Apple iPhone 5s
 date: 2019-02-25 10:38:00 Z
 categories:
 - apple
@@ -20,3 +20,8 @@ battery: 1560 mAh
 year: 2014
 ---
 
+* მოყვება: 
+* ➣ დამტენი
+* ➣ USB კაბელი
+* ➣ ბრონის დაკვრა
+* ➣ ჩასადები კეისი
