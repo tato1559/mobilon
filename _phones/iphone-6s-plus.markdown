@@ -6,7 +6,7 @@ categories:
 position: 12
 Is in stock: true
 Thumbnail image: "/uploads/6sp-2.jpg"
-price: 750
+price: 650
 old price: 840
 camera: 12 MP
 selfie camera: 5 MP
@@ -19,3 +19,8 @@ battery: 2750 mAh battery
 year: 2016
 ---
 
+* მოყვება: 
+* ➣ დამტენი
+* ➣ USB კაბელი
+* ➣ ბრონის დაკვრა
+* ➣ ჩასადები კეისი
