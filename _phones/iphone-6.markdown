@@ -1,5 +1,5 @@
 ---
-title: iPhone 6
+title: Apple iPhone 6
 date: 2019-02-25 11:20:00 Z
 categories:
 - apple
@@ -25,3 +25,8 @@ images:
 - "/uploads/20170206_025402.jpg"
 ---
 
+* მოყვება: 
+* ➣ დამტენი
+* ➣ USB კაბელი
+* ➣ ბრონის დაკვრა
+* ➣ ჩასადები კეისი
