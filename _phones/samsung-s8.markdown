@@ -10,19 +10,12 @@ Is in sale: true
 Thumbnail image: "/uploads/samsung-s8.jpg"
 price: 850
 old price: 950
-camera: 12 MP
-selfie camera: 8 MP
-memory: 64 GB
-processor: Octa-core Qualcomm Snapdragon 835
-ram: 4 GB
-screen type: Super AMOLED
-screen size: 5.8 inch
-battery: 3000 mAh battery
-year: 2017
 images:
 - "/uploads/samsung-s8-1.jpg"
 - "/uploads/afegrhtngf.jpg"
-- "/uploads/IMG_0071.JPG"
-- "/uploads/IMG_0070.JPG"
 ---
 
+* მოყვება: 
+* ➣ დამტენი
+* ➣ USB კაბელი
+* ➣ ჩასადები კეისი
