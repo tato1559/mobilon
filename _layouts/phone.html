@@ -121,7 +121,7 @@
 							<input class="credoinstallment" type="hidden" name="credoinstallment" 
 							value='{"merchantId":"{{ site.credoId }}", 
 							"orderCode":"", 
-							"check": "{{ check }} | md5", 
+							"check": "{{ check | md5 }}", 
 							"products":[ 
 							{"id":"{{ page.id }}", 
 							"title": "{{ page.title }}", 
