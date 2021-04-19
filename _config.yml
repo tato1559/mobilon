@@ -78,3 +78,5 @@ sass:
   style: compressed
 plugins:
 - jekyll-md5
+gems:
+  - liquid-md5
