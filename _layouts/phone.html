@@ -116,6 +116,8 @@
 							| append: page.price
 							| append: ",1" 
 						%}
+						{% assign check = check | md5
+						%}
 
 						<form  action="https://ganvadeba.credo.ge/widget/" method="post" class="hidden"> 
 							<input class="credoinstallment" type="hidden" name="credoinstallment" 
