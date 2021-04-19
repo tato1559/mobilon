@@ -79,4 +79,4 @@ sass:
 plugins:
 - jekyll-md5
 gems:
-  - liquid-md5
+- liquid-md5
