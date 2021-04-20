@@ -122,7 +122,7 @@
 							<input class="credoinstallment" type="hidden" name="credoinstallment" 
 							value='{"merchantId":"{{ site.credoId }}", 
 							"orderCode":"", 
-							"check": "{{ md5(check) }}", 
+							"check": "{{ CryptoJS.MD5(check) }}", 
 							"products":[ 
 							{"id":"{{ page.id }}", 
 							"title": "{{ page.title }}", 
@@ -160,6 +160,7 @@
 	<script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
 	<script src="{{ "/assets/scripts/vendor/sticky-kit.min.js" | prepend: site.baseurl }}"></script>
 	<script src="{{ "/assets/scripts/project.js" | prepend: site.baseurl }}"></script>
-	<script src="{{ "/assets/scripts/joseph_md5.js" | prepend: site.baseurl }}"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/core.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/md5.js"></script>
 </body>
 </html>
