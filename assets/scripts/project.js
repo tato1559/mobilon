@@ -23,6 +23,7 @@
 				orderId = orderId.substring(8);
 
 				credoValue.orderCode = orderId.toString();
+				credoValue.check = CryptoJS.MD5(check);
 				credoInput[0].setAttribute('value', JSON.stringify(credoValue));
 
 				document.querySelector('.credo').addEventListener('click', function(){
