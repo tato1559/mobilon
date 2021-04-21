@@ -6,18 +6,9 @@ categories:
 position: 2
 Is in stock: true
 Is in sale: true
-Thumbnail image: "/uploads/iPhone-8-Plus-space-gray-back.png"
-price: 1450
+Thumbnail image: "/uploads/5999102_sd.jpg"
+price: 1390
 old price: 1900
-camera: 12 MP
-selfie camera: 12
-memory: 64 GB
-processor: 'Apple A11 Bionic '
-ram: 3GB RAM
-screen type: LCD
-screen size: 5.5"
-battery: 2691mAh
-year: 2018
 ---
 
 * მოყვება: 
