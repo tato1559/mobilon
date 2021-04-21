@@ -5,7 +5,7 @@ categories:
 - apple
 position: 5
 Is in stock: true
-Thumbnail image: "/uploads/5872531_sd-178d99.jpg"
+Thumbnail image: "/uploads/llllllll.jpg"
 price: 1750
 memory: 64gb
 processor: 'Apple A11 Bionic '
