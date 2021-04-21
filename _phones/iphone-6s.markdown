@@ -6,25 +6,10 @@ categories:
 position: 18
 Is in stock: true
 Is in sale: true
-Thumbnail image: "/uploads/6s-grey-1.jpeg"
-price: 490
+Thumbnail image: "/uploads/5872528_sd.jpg"
+price: 450
 old price: 650
-camera: 12 MP
-selfie camera: 5 MP
-memory: 32 GB
-processor: Dual-core 1.84 GHz Twister
-ram: 2 GB
-screen type: LED-backlit IPS LCD, capacitive touchscreen, 16M colors
-screen size: 4.7 inch
-battery: Li-Ion 1715 mAh battery
 year: 2015
-images:
-- "/uploads/6s-grey.jpeg"
-- "/uploads/%E1%83%90%E1%83%A1%E1%83%93%E1%83%A4%E1%83%92%E1%83%93%E1%83%A1.jpg"
-- "/uploads/20170607_235059.jpg"
-- "/uploads/20170607_210203.jpg"
-- "/uploads/20170607_212152.jpg"
-- "/uploads/20170607_212426.jpg"
 ---
 
 * მოყვება: 
