@@ -7,13 +7,6 @@ position: 5
 Is in stock: true
 Thumbnail image: "/uploads/6394668_sd.jpg"
 price: 1750
-memory: 64gb
-processor: 'Apple A11 Bionic '
-ram: 3GB RAM
-screen type: Super Retina OLED
-screen size: 143.6 x 70.9 x 7.7 mm
-battery: 2716mAh
-year: 2017
 Field name: 
 ---
 
