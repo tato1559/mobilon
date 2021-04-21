@@ -6,7 +6,7 @@ categories:
 Brand: Samsung
 Is in stock: true
 Thumbnail image: "/uploads/SamsungGalaxyS9__1_.jpg"
-price: 950
+price: 1050
 ---
 
 * მოყვება: 
