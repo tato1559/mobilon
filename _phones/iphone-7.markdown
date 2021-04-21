@@ -6,7 +6,7 @@ categories:
 position: 19
 Is in stock: true
 Is in sale: true
-Thumbnail image: "/uploads/Apple_iPhone_7_128GB_Smartphone_for_Verizon_Wireless_-_Black_98584-fc0756.jpg"
+Thumbnail image: "/uploads/10755_source_1524019012_480x480.png"
 price: 690
 old price: 980
 ---
