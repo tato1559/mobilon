@@ -6,15 +6,9 @@ categories:
 position: 19
 Is in stock: true
 Is in sale: true
-Thumbnail image: "/uploads/iphone7_black.png"
+Thumbnail image: "/uploads/Apple_iPhone_7_128GB_Smartphone_for_Verizon_Wireless_-_Black_98584-fc0756.jpg"
 price: 690
 old price: 980
-images:
-- "/uploads/20170206_024148.jpg"
-- "/uploads/20170206_023939.jpg"
-- "/uploads/20170607_200744.jpg"
-- "/uploads/20170607_204726.jpg"
-- "/uploads/20170607_204855.jpg"
 ---
 
 * მოყვება: 
