@@ -6,18 +6,9 @@ categories:
 position: 17
 Is in stock: true
 Is in sale: true
-Thumbnail image: "/uploads/5s.jpg"
-price: 250
+Thumbnail image: "/uploads/5872528_sd.jpg"
+price: 290
 old price: 350
-camera: 8 MP
-selfie camera: 1.2 MP
-memory: 16/32/64 GB
-processor: Dual-core 1.3 GHz Cyclone
-ram: 1 GB RAM
-screen type: LCD capacitive touchscreen
-screen size: 4.0 inches
-battery: 1560 mAh
-year: 2014
 ---
 
 * მოყვება: 
