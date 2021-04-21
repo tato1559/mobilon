@@ -7,7 +7,7 @@ position: 18
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/5872528_sd.jpg"
-price: 450
+price: 490
 old price: 650
 year: 2015
 ---
