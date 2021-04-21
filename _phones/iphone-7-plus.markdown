@@ -5,16 +5,9 @@ categories:
 - apple
 position: 9
 Is in stock: true
-Thumbnail image: "/uploads/7pa-a70694.jpg"
+Thumbnail image: "/uploads/6305030_sd.jpg"
 price: 1150
 old price: 1350
-camera: Dual 12 MP
-selfie camera: 7 MP
-memory: 32 gb
-processor: Quad-core 2.34 GHz
-ram: 3 GB RAM
-screen type: LED-backlit IPS LCD
-screen size: 5.5 inches
 2900 mAh battery: 
 ---
 
