@@ -118,13 +118,14 @@
 							| append: page.price
 							| append: ",1" 
 						%}
+						<script> check = CryptoJS.MD5(check); </script>
 						
 
 						<form  action="https://ganvadeba.credo.ge/widget/" method="post" class="hidden"> 
 							<input class="credoinstallment" type="hidden" name="credoinstallment" 
 							value='{"merchantId":"{{ site.credoId }}", 
 							"orderCode":"", 
-							"check": "{% check | CryptoJS.MD5%}", 
+							"check": "{{ check | CryptoJS.MD5 }}", 
 							"products":[ 
 							{"id":"{{ page.id }}", 
 							"title": "{{ page.title }}", 
