@@ -5,7 +5,7 @@ categories:
 - samsung
 Brand: Samsung
 Is in stock: true
-Thumbnail image: "/uploads/SamsungGalaxyS9__1_.jpg"
+Thumbnail image: "/uploads/6214632cv11d.jpg"
 price: 1050
 ---
 
@@ -13,5 +13,4 @@ price: 1050
 * ➣ დამტენი
 * ➣ USB კაბელი
 * ➣ ყურსასმენები
-* ➣ ბრონის დაკვრა
 * ➣ ჩასადები კეისი
