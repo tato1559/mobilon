@@ -5,7 +5,7 @@ categories:
 - apple
 Brand: Apple
 Is in stock: true
-Thumbnail image: "/uploads/6305077_ra.jpg"
+Thumbnail image: "/uploads/5872528_sd.jpg"
 price: 490
 ---
 
