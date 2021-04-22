@@ -1,5 +1,5 @@
 ---
-title: Apple iPhone 5s
+title: iPhone 5S
 date: 2019-02-25 10:38:00 Z
 categories:
 - apple
