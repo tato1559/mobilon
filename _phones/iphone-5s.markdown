@@ -4,6 +4,7 @@ date: 2019-02-25 10:38:00 Z
 categories:
 - apple
 position: 17
+Brand: Apple
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/iPhone%205s.png"
