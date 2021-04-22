@@ -6,7 +6,7 @@ categories:
 position: 17
 Is in stock: true
 Is in sale: true
-Thumbnail image: "/uploads/5872528_sd.jpg"
+Thumbnail image: "/uploads/iPhone%205s.png"
 price: 290
 old price: 350
 ---
