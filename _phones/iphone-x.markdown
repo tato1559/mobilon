@@ -1,5 +1,5 @@
 ---
-title: Apple iPhone x
+title: iPhone X
 date: 2021-03-28 21:20:00 Z
 categories:
 - apple
