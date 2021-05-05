@@ -8,7 +8,7 @@ Brand: Samsung
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/81GiqxCnlGL._AC_SL1500_.jpg"
-price: 850
+price: 880
 old price: 950
 images:
 - "/uploads/samsung-s8-1.jpg"
