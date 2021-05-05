@@ -7,7 +7,7 @@ position: 13
 Is in stock: true
 Is in sale: true
 Thumbnail image: "/uploads/71u5x5hyJNL._AC_SX522_.jpg"
-price: 450
+price: 470
 old price: 550
 ---
 
