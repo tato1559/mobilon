@@ -6,8 +6,8 @@ categories:
 Brand: samsung
 Is in stock: true
 Thumbnail image: "/uploads/6323528_sd.jpg"
-price: 1590
-old price: 1690
+price: 1650
+old price: 1750
 ---
 
 * მოყვება: 
