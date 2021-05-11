@@ -1,7 +1,7 @@
 ---
 title: Galaxy s7 Edge
 date: 2021-05-11 11:37:00 Z
-tags:
+categories:
 - apple
 Brand: Samsung
 Is in stock: true
