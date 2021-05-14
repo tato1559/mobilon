@@ -7,7 +7,7 @@ Brand: Apple
 Is in stock: true
 Thumbnail image: "/uploads/5872531_sd-178d99.jpg"
 price: 830
-old price: 850
+old price: 890
 ---
 
 * მოყვება: 
