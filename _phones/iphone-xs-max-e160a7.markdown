@@ -6,6 +6,7 @@ categories:
 Brand: Apple
 Is in stock: true
 Thumbnail image: "/uploads/6009877_sd.jpg"
+price: 2050
 ---
 
 * მოყვება: 
