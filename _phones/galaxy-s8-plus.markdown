@@ -6,6 +6,7 @@ categories:
 Brand: Samsung
 Is in stock: true
 Thumbnail image: "/uploads/6323528_sd.jpg"
+price: 1090
 ---
 
 * მოყვება: 
